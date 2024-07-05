@@ -1,4 +1,4 @@
-## 충남대 22/23/24학번 임승묵 👋
+## 충남대 22/23/24 인공지능학과 임승묵 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
