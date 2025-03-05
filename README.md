@@ -3,6 +3,9 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w1nmuk)](https://solved.ac/w1nmuk)
+
 <!--
 **w1nmuk/w1nmuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
