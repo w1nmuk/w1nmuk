@@ -1,10 +1,13 @@
 ## 충남대 22 정보통계 23/24 인공지능학과 임승묵 👋 이었는데 이제는
 ## 연세대 미래캠퍼스 AI반도체학부 25학번
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cndskaing)](https://solved.ac/cndskaing)
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w1nmuk)](https://solved.ac/w1nmuk)
+
 
 <!--
 **w1nmuk/w1nmuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
