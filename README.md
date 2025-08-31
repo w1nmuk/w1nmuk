@@ -1,5 +1,4 @@
-## 충남대 22 정보통계 23/24 인공지능학과 임승묵 👋 이었는데 이제는
-## 연세대 미래캠퍼스 AI반도체학부 25학번
+## 연세대 미래캠퍼스 AI반도체학부 25학번 임승묵 👋
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cndskaing)](https://solved.ac/cndskaing)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w1nmuk)](https://solved.ac/w1nmuk)
