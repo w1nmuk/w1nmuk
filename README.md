@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-현재 의료AI 엔비디아 솔루션대회, 의료AI FPGA 설계대회, 의료AI 코딩대회 준비 중
+현재 의료AI 엔비디아 솔루션대회(11/21 금), 의료AI FPGA 설계대회(11/20 목), 의료AI 코딩대회(11/07 금) 준비 중
 
 Python, C/C++, Verilog, Linux, 알고리즘 공부 중
 
