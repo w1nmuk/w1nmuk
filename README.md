@@ -3,14 +3,22 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cndskaing)](https://solved.ac/cndskaing)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=w1nmuk)](https://solved.ac/w1nmuk)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+ 
+ 
+ ## 이력
 - 의료AI FPGA 설계대회 경험
 - 의료AI반도체사업단 주관 코딩대회 4차 1위
+- 연세대 미래캠 정광식 교수님 랩실 인턴 6개월
 
-  
-Python, C/C++, Verilog, Linux, 알고리즘 공부 에정
-현재는 회로이론, 논리회로설계 등 전공 공부 중
+## 공부 중
+- 리눅스마스터 2급 공부 중
+- 컴퓨터활용능력 1급 공부 중
+- C/C++ 공부 중
+- 토익 800+ 공부 중
+- 한능검 공부 중
+
 
 
 
